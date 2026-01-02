@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on developing my skill in full-stack web development<br><br>I would like to learn AI and Robotics in the future<br><br>Like to build my own tech company <br><br>Currently pursuing my B .Tech in computer science enginneering<br>
+-I'm currently working on developing my skill in full-stack web development<br><br>-I would like to learn AI and Robotics in the future<br><br>-Like to build my own tech company <br><br>-Currently pursuing my B .Tech in computer science enginneering<br>
 
 
 ## 🌐 Socials:
